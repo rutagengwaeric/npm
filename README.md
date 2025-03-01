@@ -8,7 +8,7 @@ A CLI utility that instantly opens Eric Rutagengwa's LinkedIn profile in your de
 
 ## 🚀 Installation
 
-Install globally using npm:
+Install globally using npm to connect 
 
 ```bash
 npm install -g rutagengwa-eric
